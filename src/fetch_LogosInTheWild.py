@@ -2,6 +2,8 @@ import os
 import time
 import argparse
 #import readline
+from pyreadline import Readline
+readline = Readline()
 #readline.parse_and_bind("tab: complete")
 
 from multiprocessing.pool import ThreadPool
