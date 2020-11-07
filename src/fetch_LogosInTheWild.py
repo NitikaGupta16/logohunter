@@ -1,8 +1,8 @@
 import os
 import time
 import argparse
-import readline
-readline.parse_and_bind("tab: complete")
+#import readline
+#readline.parse_and_bind("tab: complete")
 
 from multiprocessing.pool import ThreadPool
 
